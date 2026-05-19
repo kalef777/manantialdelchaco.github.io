@@ -1,59 +1,17 @@
-# Agua Manantial del Chaco
+# Agua Manantial del Chaco - actualización del hero
 
-Sitio web corporativo para **Agua Manantial del Chaco**, diseñado para publicarse con GitHub Pages.
+Esta versión cambia la imagen principal del inicio para mostrar solo el galón con la etiqueta de la empresa, con un estilo más limpio y corporativo.
 
-## Contenido del sitio
+## Archivos
 
-- Página principal profesional y responsive.
-- Botones directos a WhatsApp.
-- Sección de beneficios.
-- Sección corporativa de empresa.
-- Formulario rápido para generar pedido por WhatsApp.
-- Enlace a Facebook oficial.
-
-## Archivos necesarios
-
-El repositorio debe tener esta estructura:
-
-```txt
-index.html
-README.md
-assets/
-  logo-manantial.png
-  portada-manantial.png
-  banner-facebook.png
-```
+- `index.html` reemplaza el archivo actual.
+- `assets/galon-manantial.png` debe subirse dentro de la carpeta `assets` existente.
 
 ## Cómo subirlo a GitHub
 
-1. Entra a tu repositorio `manantialdelchaco.github.io`.
-2. Haz clic en **Add file**.
-3. Selecciona **Upload files**.
-4. Sube el archivo `index.html` y este `README.md`.
-5. Mantén la carpeta `assets` que ya tienes subida.
-6. Abajo haz clic en **Commit changes**.
-
-## GitHub Pages
-
-En **Settings → Pages**, la configuración debe ser:
-
-- Source: `Deploy from a branch`
-- Branch: `main`
-- Folder: `/root`
-
-Tu página se verá en:
-
-```txt
-https://kalef777.github.io/manantialdelchaco.github.io/
-```
-
-## Datos usados
-
-- Marca: Agua Manantial del Chaco
-- Facebook: https://www.facebook.com/aguaManantialdelchaco/
-- Teléfonos: 67407091 / 67407093
-- WhatsApp principal: 67407091
-
-## Nota importante
-
-Este repositorio no usa dependencias externas. Todo el diseño está dentro del archivo `index.html`, por eso es fácil de subir y mantener.
+1. Entra al repositorio.
+2. Sube/reemplaza `index.html` en la raíz del repositorio.
+3. Entra a la carpeta `assets`.
+4. Sube `galon-manantial.png`.
+5. Guarda los cambios con `Commit changes`.
+6. Espera 1 a 3 minutos y refresca la página.
