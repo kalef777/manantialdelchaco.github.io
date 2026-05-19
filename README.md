@@ -1,17 +1,31 @@
-# Agua Manantial del Chaco - actualización del hero
+# Agua Manantial del Chaco
 
-Esta versión cambia la imagen principal del inicio para mostrar solo el galón con la etiqueta de la empresa, con un estilo más limpio y corporativo.
+Sitio web corporativo para **Agua Manantial del Chaco**.
 
-## Archivos
+## Archivos incluidos
 
-- `index.html` reemplaza el archivo actual.
-- `assets/galon-manantial.png` debe subirse dentro de la carpeta `assets` existente.
+- `index.html`: página principal.
+- `assets/logo-manantial.png`: logo de la empresa.
+- `assets/galon-manantial.png`: imagen limpia del botellón, sin precio.
 
-## Cómo subirlo a GitHub
+## Cómo subirlo a GitHub Pages
 
-1. Entra al repositorio.
-2. Sube/reemplaza `index.html` en la raíz del repositorio.
-3. Entra a la carpeta `assets`.
-4. Sube `galon-manantial.png`.
-5. Guarda los cambios con `Commit changes`.
-6. Espera 1 a 3 minutos y refresca la página.
+1. Entra a tu repositorio `manantialdelchaco.github.io`.
+2. Sube o reemplaza `index.html`.
+3. Sube la carpeta `assets` completa.
+4. Ve a **Settings > Pages**.
+5. Verifica que esté seleccionado:
+   - Branch: `main`
+   - Folder: `/root`
+6. Guarda y espera 1 a 3 minutos.
+7. Abre tu sitio:
+
+```txt
+https://kalef777.github.io/manantialdelchaco.github.io/
+```
+
+## Contactos usados
+
+- WhatsApp / Teléfono: 67407091
+- Teléfono alternativo: 67407093
+- Facebook: https://www.facebook.com/aguaManantialdelchaco/
